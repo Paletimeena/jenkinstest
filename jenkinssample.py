@@ -1,2 +1,3 @@
-for iter in range(1,10):
+try:
 	print "number",mee
+	raise 
